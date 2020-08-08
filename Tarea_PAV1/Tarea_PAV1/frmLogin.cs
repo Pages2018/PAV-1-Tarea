@@ -46,8 +46,10 @@ namespace Tarea_PAV1
             string msj = "";
             if (this.txtUsuario.Text == this.user && this.txtClave.Text == this.pass)
             {
-                msj = "Login OK";
-                MessageBox.Show(msj, "Ingreso al Sistema", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                msj = "Login OK;
+                MessageBox.Mostrar(msj,"Ingreso al sistemas",MessageBoxButtons.OK,MessageBoxIcon.Exclamation);
+                
+                //cambiado a exclamacion
             }      
             else
             {
