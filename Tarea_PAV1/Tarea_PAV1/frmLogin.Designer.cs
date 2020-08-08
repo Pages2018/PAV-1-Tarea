@@ -110,7 +110,7 @@
         }
 
         #endregion
-
+        //comentario de rodrigo
         private System.Windows.Forms.Button btnIngresar;
         private System.Windows.Forms.Button btnSalir;
         private System.Windows.Forms.Label lblUsuario;
