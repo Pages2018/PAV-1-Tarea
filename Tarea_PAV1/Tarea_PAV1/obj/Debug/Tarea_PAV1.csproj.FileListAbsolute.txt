@@ -1,0 +1,10 @@
+C:\Users\GP\Documents\Documentos Juani\PAV1_2020\Tarea_PAV1\Tarea_PAV1\bin\Debug\Tarea_PAV1.exe.config
+C:\Users\GP\Documents\Documentos Juani\PAV1_2020\Tarea_PAV1\Tarea_PAV1\bin\Debug\Tarea_PAV1.exe
+C:\Users\GP\Documents\Documentos Juani\PAV1_2020\Tarea_PAV1\Tarea_PAV1\bin\Debug\Tarea_PAV1.pdb
+C:\Users\GP\Documents\Documentos Juani\PAV1_2020\Tarea_PAV1\Tarea_PAV1\obj\Debug\Tarea_PAV1.csprojAssemblyReference.cache
+C:\Users\GP\Documents\Documentos Juani\PAV1_2020\Tarea_PAV1\Tarea_PAV1\obj\Debug\Tarea_PAV1.frmLogin.resources
+C:\Users\GP\Documents\Documentos Juani\PAV1_2020\Tarea_PAV1\Tarea_PAV1\obj\Debug\Tarea_PAV1.Properties.Resources.resources
+C:\Users\GP\Documents\Documentos Juani\PAV1_2020\Tarea_PAV1\Tarea_PAV1\obj\Debug\Tarea_PAV1.csproj.GenerateResource.cache
+C:\Users\GP\Documents\Documentos Juani\PAV1_2020\Tarea_PAV1\Tarea_PAV1\obj\Debug\Tarea_PAV1.csproj.CoreCompileInputs.cache
+C:\Users\GP\Documents\Documentos Juani\PAV1_2020\Tarea_PAV1\Tarea_PAV1\obj\Debug\Tarea_PAV1.exe
+C:\Users\GP\Documents\Documentos Juani\PAV1_2020\Tarea_PAV1\Tarea_PAV1\obj\Debug\Tarea_PAV1.pdb
