@@ -11,9 +11,10 @@ using System.Windows.Forms;
 namespace Tarea_PAV1
 {
     public partial class frmLogin : Form
+
     {
-        //generando un conflicto...
-        //Cambio de user de admin a juan, probando...
+        //Ahora si, conflicto resuelto
+        //Cambio de user de admin a juan
         string user = "juan";
         string pass = "1234";
         
