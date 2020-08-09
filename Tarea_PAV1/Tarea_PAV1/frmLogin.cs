@@ -8,13 +8,12 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-//Comentario
-
 namespace Tarea_PAV1
 {
     public partial class frmLogin : Form
     {
-        //Cambio de user de admin a juan
+        //generando un conflicto...
+        //Cambio de user de admin a juan, probando...
         string user = "juan";
         string pass = "1234";
         
