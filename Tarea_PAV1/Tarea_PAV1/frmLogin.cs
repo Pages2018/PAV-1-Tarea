@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//Comentario para causar conflicto
+
 namespace Tarea_PAV1
 {
     public partial class frmLogin : Form
@@ -47,8 +49,8 @@ namespace Tarea_PAV1
             string msj = "";
             if (this.txtUsuario.Text == this.user && this.txtClave.Text == this.pass)
             {
-                msj = "Login OK;
-                MessageBox.Mostrar(msj,"Ingreso al sistemas",MessageBoxButtons.OK,MessageBoxIcon.Exclamation);
+                msj = "Login OK";
+                MessageBox.Show(msj,"Ingreso al sistemas",MessageBoxButtons.OK,MessageBoxIcon.Exclamation);
                 
                 //cambiado a exclamacion
             }      
