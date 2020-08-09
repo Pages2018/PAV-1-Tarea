@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-//Comentario para causar conflicto
+//Comentario
 
 namespace Tarea_PAV1
 {
